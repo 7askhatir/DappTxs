@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DappTxs/static/css/main.073c9b0a.css",
+    "main.js": "/DappTxs/static/js/main.31243bd3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DappTxs/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/DappTxs/index.html",
+    "main.073c9b0a.css.map": "/DappTxs/static/css/main.073c9b0a.css.map",
+    "main.31243bd3.js.map": "/DappTxs/static/js/main.31243bd3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DappTxs/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.31243bd3.js"
+  ]
+}
